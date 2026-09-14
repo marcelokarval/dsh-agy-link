@@ -3,10 +3,10 @@
   "version": "0.4.27",
   "runtime_source_commit": "71ca12b425d1cb31516933042ae42e3371144364",
   "patch_file": "dsh-agy-link@0.4.27.patch",
-  "patch_sha256": "c298bd843ea16da47a5638bd76895880edb58adf4a2019f15a11c3becf86491d",
+  "patch_sha256": "58be3d7818d4d8778e84852d4cbbf360c6774e7a1be75993963462c11f152cf3",
   "payload_sha256": {
-    "dist/index.js": "c4af2d21533f224a0009740bf7289140540acf7d956a6e1ec7222f218f619e99",
-    "dist/client.js": "03dbf7d62a20312e81b8f259a8138632fae64db6b8188f829fd3da33b9c13981",
+    "dist/index.js": "10cf31390c4169ed3e29fa4a912188a1e51c720eb15c824584fdf1403681bafb",
+    "dist/client.js": "adf14f35b41c7c80a06180ad00ef817d194c596a8d336e7163e9bd24bcf3d7ae",
     "package.json": "8a7a475ebae4b83089a50643ab5391e362c3c65a32ba76225fd95ad0158ed3f3"
   },
   "verified_dsh_commit": "fb2c4b9e698e30edb738bca4cf0618587db7d203"
